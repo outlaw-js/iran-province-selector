@@ -1,0 +1,6 @@
+node_modules/
+dist/
+example/demo.js
+example/demo.js.map
+.claude/
+*.log
