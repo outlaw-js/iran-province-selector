@@ -1,8 +1,9 @@
 {
-  "name": "province-selection-package",
+  "name": "iran-province-selector",
   "version": "1.0.0",
   "description": "Interactive map of Iran's provinces for React and Next.js: tooltips with auto-flip, custom colors, click handlers and multi-select.",
   "type": "module",
+  "license": "MIT",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -39,7 +40,6 @@
     "tooltip"
   ],
   "author": "",
-  "license": "ISC",
   "devDependencies": {
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
